@@ -5,7 +5,7 @@ public class Exercicio01 {
         final double PESO_NOTA = 0.5;
 
         double CalculoAritmetico = (nota01 * PESO_NOTA) + (nota02 * PESO_NOTA);
-        
+
         System.out.println(CalculoAritmetico);
 
 
